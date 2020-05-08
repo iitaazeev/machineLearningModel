@@ -1,6 +1,8 @@
 # machineLearningModel
 The first Machine learning model i made for my individual engineering project for university
 
+**disclaimer*** A lot of this code came from SentDex, a great youtuber who got me interesting in machine learning.
+
 Hi,
 My name is jordan i study computer and network tech,
 I work as an IT support analyst
