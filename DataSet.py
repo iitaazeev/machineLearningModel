@@ -8,6 +8,8 @@ import pickle
 
 # DATADIR = "D:/Jorda/Pictures/ml/hand_gestures_-_Google_Search/" custom search google shit
 # DATADIR = "C:/Users/Jorda/Desktop/hand-gestures-recognition/train" sign language
+
+# ^^^^ these are old datasets, which didnt really work with my model ^^^^ 
 DATADIR = "D:/Jorda/Pictures/Camera Roll"
 
 # CATEGORIES = ["ok", "thumbs_up"]  # this is the name of the files in which the pictures are in
