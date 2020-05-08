@@ -5,7 +5,7 @@ The first Machine learning model i made for my individual engineering project fo
 
 Hi,
 My name is jordan i study computer and network tech,
-I work as an IT support analyst
+I work as an IT support analyst.
 At the start of uni i was forced to do java as that was part of the curriculum (i absolutely hated it),
 but we got to choose our own language for this project. 
 
